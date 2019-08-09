@@ -43,3 +43,11 @@ img{
 .small-font{
   font-size: 12px;
 }
+
+.center-words{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 22px;
+}
