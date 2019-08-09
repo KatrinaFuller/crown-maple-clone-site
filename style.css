@@ -34,3 +34,12 @@ img{
   max-height: 250px;
   max-width: 250px;
 }
+
+.bottom-row{
+  background-color: black;
+  min-height: 14vh;
+}
+
+.small-font{
+  font-size: 12px;
+}
