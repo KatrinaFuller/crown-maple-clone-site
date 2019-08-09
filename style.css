@@ -2,3 +2,14 @@
   background-color: wheat;
   min-height: 12vh;
 }
+
+.skinny-gray{
+  background-color: lightgrey;
+  min-height: 1vh;
+}
+
+.maple-row{
+  background-image: url(wood.png);
+  min-height: 50vh;
+  background-size: cover;
+}
