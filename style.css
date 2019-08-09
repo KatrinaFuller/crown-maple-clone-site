@@ -24,3 +24,13 @@
   background-color: #666666;
   color: #dddddd;
 }
+
+.gray{
+  background-color: #dddddd;
+  min-height: 50vh;
+}
+
+img{
+  max-height: 250px;
+  max-width: 250px;
+}
