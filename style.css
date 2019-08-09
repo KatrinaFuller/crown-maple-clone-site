@@ -1,10 +1,10 @@
 .top-row{
-  background-color: wheat;
+  background-color: white;
   min-height: 12vh;
 }
 
 .skinny-gray{
-  background-color: lightgrey;
+  background-color: #dddddd;
   min-height: 1vh;
 }
 
@@ -12,4 +12,15 @@
   background-image: url(wood.png);
   min-height: 50vh;
   background-size: cover;
+}
+
+.black-row{
+  background-color: black;
+  min-height: 45vh;
+  color: #dddddd;
+}
+
+.button{
+  background-color: #666666;
+  color: #dddddd;
 }
